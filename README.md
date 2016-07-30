@@ -11,6 +11,16 @@ class_alias('\Restful\Client', '\RestfulClient');
 
 ```
 
+# composer
+
+```
+{
+    "require": {
+       "aronwu/restful": "*"
+    }
+}
+
+```
 
 # 配置HostAlias
 
