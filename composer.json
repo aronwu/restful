@@ -1,0 +1,24 @@
+{
+    "name": "aronwu/restful",
+    "description": "A lightweight PHP Restful Client library",
+    "homepage": "https://github.com/aronwu/Restful",
+    "license": "MIT",
+    "keywords": ["http", "curl", "rest", "restful", "api", "requests"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Aron Wu",
+            "email": "wuswoo2008@gmail.com",
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {"Restful\\": "src/Restful"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
