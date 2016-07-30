@@ -4,7 +4,7 @@
     "homepage": "https://github.com/aronwu/Restful",
     "license": "MIT",
     "keywords": ["http", "curl", "rest", "restful", "api", "requests"],
-    "version": "1.0.0",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "Aron Wu",
